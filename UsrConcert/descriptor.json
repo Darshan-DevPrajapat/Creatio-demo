@@ -1,0 +1,11 @@
+﻿{
+  "Descriptor": {
+    "UId": "20ad6ac8-3d87-6449-6be1-e6ac43239ece",
+    "Name": "UsrConcert",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1765423688000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrConcert.csproj",
+    "DependsOn": []
+  }
+}
